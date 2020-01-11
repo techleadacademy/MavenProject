@@ -1,0 +1,369 @@
+
+
+Class will start at 7:10 
+have your virtual machine running 
+
+-- LAST DAY FOR SELENIUM January, 26th 
+
+-- We will Start SQL 28th 
+-- SQL Classes will be Tuesday Thrusday Saturday Sunday
+-- 2 - 3 weeks Maximum 
+
+-- API will start After SQL 
+-- Jmeter will be thought during that time
+
+-- After API we will have Interview Preparation
+-- Jenkins, Sauce labs and Overall Review
+
+-- JOB HUNT 
+
+
+
+
+HOW TO PRACTICE GIT
+
+-- NOOBS
+-- Champions - Meerim
+-- Ninja Turtles
+-- GO Smart
+-- Islanders
+
+
+Create a github account
+	* Create a Maven Project
+	* Create Branches
+			master ->   localbranch Selvin
+						Rocio
+						GIGI
+						Meerim
+
+INTERVIEWS 
+
+-- NOOBS
+-- Champions - Meerim
+-- Ninja Turtles
+-- GO Smart
+-- Islanders
+
+Friday 10th - Monday 13th
+
+	NOOBS -> GO SMART
+
+	CHAMPIONS  -> Ninja Turtles
+
+	Islanders -> NOOBS
+
+
+Phone interview
+1 on 1 interview
+Skype interview
+
+
+
+
+--- INTERVIEW QUESTION ---
+
+What is SDLC?
+
+		planning
+		design
+		development
+		testing
+		deployment 
+		maintnance
+
+What is STLC?
+	software Testing life cycle
+
+
+How to handle keyboard and mouse actions in selenium?
+	in my current project I use Actions class for mouse actions.
+
+how to handle drop down in selenium Web Driver?
+	Select class 
+
+
+how to switch to new window?
+	syntax:
+	driver.switchto().window()
+
+
+Web Elements examples?
+	css
+	xpath
+	id
+	class
+
+
+relative and absolute xpath?
+	absolute -> start with root
+	relative -> starts from 
+
+example of overload?
+	same name different parameters
+
+	public static age (int num)
+
+	public static age (String str)
+
+What is encapsulation?
+	data hiding
+
+
+
+What is Implict wait?
+	when we use driver it will wait the amount of time we set it as to find
+	element
+
+what is explicit wait?
+	wait for condition such as: elementtobeClicable
+
+How many test cases have you automated?
+	40 test cases
+
+
+Anotations for TestNG?
+	@test
+	@BeforeEach
+	@AfterEach
+	@AfterAll
+
+
+OOP concept?
+	Object oriented programining
+
+	Encapsulation
+	Abstraction
+	Inheritance 
+	Polymorphism
+
+how to handle Stale Element Exception?
+	when element is no longer available or tag is change
+	- 
+
+Difference between Assert and Verify?
+	- Assert is used when we are testing I use assert Equals to verify 
+	if both conditions match.
+	- Verify?
+
+
+What defect life cycle?
+	- create a ticket (defect)
+	- Developer reviews ticket to confirm that is defect
+	- once fixed
+	- you re - test
+	- assign back to developer if defect is still there.
+
+
+whats your role as tester?
+	I am responsible for testing, verification, find defects.
+
+name some of the exceptions for Java?
+	Class not found exeption
+	ioexception
+
+what is polymorphism?
+	one of the examples I can think of is
+	WebDriver driver = new Chromedriver()
+
+	driver.get()
+
+	get() = comes from WebDriver
+
+
+What is abstract?
+	doesnt have a return body, abstract class can have abstract methods
+
+is it necesary that each try block must be followed by a catch block?
+	
+
+can a constructor be inherited?
+	no 
+
+
+advantage of an arraylist vs array?
+	arraylist - flexible
+	array - set list of values
+
+
+can you cast a double into a byte?
+	
+
+which OOP is achieved by using Overloading and overriding?
+
+
+how to handle drag and drop?
+
+Action class:
+
+		Syntax:
+
+what is instance variable ?
+	is an object variable in the memory
+
+what is singleton class?
+
+
+How can you hide the password from compile?
+
+	String passwd = "Techlead";
+
+	System.out.println(passwd);
+
+	@$%fdaijkj
+
+why is String consider inmutable?
+	- its in the memory
+
+Why is StringBuffer mutable?
+	- its an obeject variable
+
+Example of interface in your project?
+	- WebDriver 
+	- get()
+	- getcurrenturl()
+
+why are packages are used in your project?
+	- Maintain order of class 
+
+Garbage collection?
+	- if you dont use the object 
+
+Day to day activity?
+	in the morning i get ot my job i verify emails
+	9:00 am i have daily stand up
+	then I go back to continue testing
+
+	any other day i attend meetings
+
+how to navigate to google.com?
+	
+	driver.get()....
+
+Do you have experience with Hybrid Framework?
+	BDD Framework
+	TDD Framework 
+	a convination of both its Hybrid, it can also be other frameworks
+
+how to run a group of Tests in TestNG?
+
+	@Test ()
+	public void loginTest()
+	
+how would you nagivate to the 3rd window?
+	Set<String> window = Driver.getWindHandles();
+
+
+Difference between xpath and css?
+	css = tag name and attribute value
+	xpath= you have absolute and relative 
+
+
+
+Tell me about your Framework?
+	Its a maven project
+	TestNG
+	I have pom.xml
+	packages
+
+how do you select a checkbox?
+	
+
+listofnames
+
+names		address
+
+alex 		1712
+rocio 		454	
+Selvin      45846
+
+listofnames2
+
+names		address
+
+alex 		1712
+rocio 		454	
+Selvin      45846
+
+
+how to query and return 454
+
+select address from listofnames where address = '454';
+
+
+tell me about the HTTP methods you are familiar with? (In API)
+	GET
+	POST
+	PUT
+	DELETE
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

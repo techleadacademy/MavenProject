@@ -2,59 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfb6622a-c925-41ea-bfa0-e0fef10929a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_javafaker_javafaker_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_mifmif_generex_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dk_brics_automaton_automaton_1_11_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_6_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_android_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MavenProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/techleadacademy/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/MavenPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/io/techleadacademy/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/io/techleadacademy/MavenPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/io/techleadacademy/TestData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MavenProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MavenProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/MavenPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/MavenPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/io/techleadacademy/MavenPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/io/techleadacademy/MavenPractice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +34,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1VyxBIrGr2z5Tbe6LHPRLn5j17U" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -93,9 +50,30 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
-  <component name="RunManager">
-    <configuration name="MavenPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.MavenPractice" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="io.techleadacademy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/techleadacademy/IdeaProjects/MavenProject/testParameters.xml">
+    <configuration name="Math" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.techleadacademy.testNG_Jan11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.techleadacademy.testNG_Jan11" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.testNG_Jan11.Math" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeNewsEdit.projectDay (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
@@ -103,13 +81,79 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="io.techleadacademy" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.OrangeNewsEdit" />
+      <option name="METHOD_NAME" value="projectDay" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTags.logInPerformanceTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.techleadacademy.testNG_Jan11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.techleadacademy.testNG_Jan11" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.testNG_Jan11.TestTags" />
+      <option name="METHOD_NAME" value="logInPerformanceTest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTags.logInPerformanceTest3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.techleadacademy.testNG_Jan11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.techleadacademy.testNG_Jan11" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.testNG_Jan11.TestTags" />
+      <option name="METHOD_NAME" value="logInPerformanceTest3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/techleadacademy/IdeaProjects/MavenProject/testParameters.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testParameters.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/techleadacademy/IdeaProjects/MavenProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MavenPractice" />
+        <item itemvalue="TestNG./Users/techleadacademy/IdeaProjects/MavenProject/testParameters.xml" />
+        <item itemvalue="TestNG./Users/techleadacademy/IdeaProjects/MavenProject/testng.xml" />
+        <item itemvalue="TestNG.Math" />
+        <item itemvalue="TestNG.TestTags.logInPerformanceTest2" />
+        <item itemvalue="TestNG.TestTags.logInPerformanceTest3" />
       </list>
     </recent_temporary>
   </component>
@@ -139,38 +183,87 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1813" height="304" key="GridCell.Tab.0.bottom" timestamp="1578252902282">
-      <screen x="0" y="23" width="1920" height="987" />
+    <state x="416" y="100" width="1177" height="906" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578758773287">
+      <screen x="0" y="23" width="1920" height="983" />
     </state>
-    <state width="1813" height="237" key="GridCell.Tab.0.bottom/0.23.1920.983@0.23.1920.983" timestamp="1578247803769" />
-    <state width="1813" height="127" key="GridCell.Tab.0.bottom/0.23.1920.985@0.23.1920.985" timestamp="1578252291362" />
-    <state width="1813" height="304" key="GridCell.Tab.0.bottom/0.23.1920.987@0.23.1920.987" timestamp="1578252902282" />
-    <state width="1813" height="304" key="GridCell.Tab.0.center" timestamp="1578252902280">
-      <screen x="0" y="23" width="1920" height="987" />
+    <state x="416" y="100" width="1177" height="906" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.983@0.23.1920.983" timestamp="1578758773287" />
+    <state x="291" y="419" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578758549555">
+      <screen x="0" y="23" width="1920" height="983" />
     </state>
-    <state width="1813" height="237" key="GridCell.Tab.0.center/0.23.1920.983@0.23.1920.983" timestamp="1578247803767" />
-    <state width="1813" height="127" key="GridCell.Tab.0.center/0.23.1920.985@0.23.1920.985" timestamp="1578252291360" />
-    <state width="1813" height="304" key="GridCell.Tab.0.center/0.23.1920.987@0.23.1920.987" timestamp="1578252902280" />
-    <state width="1813" height="304" key="GridCell.Tab.0.left" timestamp="1578252902280">
-      <screen x="0" y="23" width="1920" height="987" />
+    <state x="291" y="419" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1920.983@0.23.1920.983" timestamp="1578758549555" />
+    <state x="640" y="365" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578758551295">
+      <screen x="0" y="23" width="1920" height="983" />
     </state>
-    <state width="1813" height="237" key="GridCell.Tab.0.left/0.23.1920.983@0.23.1920.983" timestamp="1578247803765" />
-    <state width="1813" height="127" key="GridCell.Tab.0.left/0.23.1920.985@0.23.1920.985" timestamp="1578252291360" />
-    <state width="1813" height="304" key="GridCell.Tab.0.left/0.23.1920.987@0.23.1920.987" timestamp="1578252902280" />
-    <state width="1813" height="304" key="GridCell.Tab.0.right" timestamp="1578252902281">
-      <screen x="0" y="23" width="1920" height="987" />
+    <state x="640" y="365" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1920.983@0.23.1920.983" timestamp="1578758551295" />
+    <state x="114" y="123" width="1675" height="777" key="DiffContextDialog" timestamp="1578442280040">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1813" height="237" key="GridCell.Tab.0.right/0.23.1920.983@0.23.1920.983" timestamp="1578247803768" />
-    <state width="1813" height="127" key="GridCell.Tab.0.right/0.23.1920.985@0.23.1920.985" timestamp="1578252291361" />
-    <state width="1813" height="304" key="GridCell.Tab.0.right/0.23.1920.987@0.23.1920.987" timestamp="1578252902281" />
+    <state x="114" y="123" width="1675" height="777" key="DiffContextDialog/0.23.1920.977@0.23.1920.977" timestamp="1578442280040" />
+    <state width="1813" height="339" key="GridCell.Tab.0.bottom" timestamp="1578772043648">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1578623159680" />
+    <state width="1813" height="150" key="GridCell.Tab.0.bottom/0.23.1920.979@0.23.1920.979" timestamp="1578620905438" />
+    <state width="1813" height="339" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1578772043648" />
+    <state width="1813" height="397" key="GridCell.Tab.0.bottom/0.23.1920.983@0.23.1920.983" timestamp="1578769535288" />
+    <state width="1813" height="281" key="GridCell.Tab.0.bottom/0.23.1920.985@0.23.1920.985" timestamp="1578767590379" />
+    <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.987@0.23.1920.987" timestamp="1578621451696" />
+    <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1578622638263" />
+    <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1578622773499" />
+    <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1578622911350" />
+    <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1578623028942" />
+    <state width="1813" height="339" key="GridCell.Tab.0.center" timestamp="1578772043647">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1578623159679" />
+    <state width="1813" height="150" key="GridCell.Tab.0.center/0.23.1920.979@0.23.1920.979" timestamp="1578620905437" />
+    <state width="1813" height="339" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1578772043647" />
+    <state width="1813" height="397" key="GridCell.Tab.0.center/0.23.1920.983@0.23.1920.983" timestamp="1578769535286" />
+    <state width="1813" height="281" key="GridCell.Tab.0.center/0.23.1920.985@0.23.1920.985" timestamp="1578767590377" />
+    <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.987@0.23.1920.987" timestamp="1578621451694" />
+    <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1578622638261" />
+    <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1578622773498" />
+    <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1578622911344" />
+    <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1578623028941" />
+    <state width="1813" height="339" key="GridCell.Tab.0.left" timestamp="1578772043645">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1578623159679" />
+    <state width="1813" height="150" key="GridCell.Tab.0.left/0.23.1920.979@0.23.1920.979" timestamp="1578620905437" />
+    <state width="1813" height="339" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1578772043645" />
+    <state width="1813" height="397" key="GridCell.Tab.0.left/0.23.1920.983@0.23.1920.983" timestamp="1578769535286" />
+    <state width="1813" height="281" key="GridCell.Tab.0.left/0.23.1920.985@0.23.1920.985" timestamp="1578767590377" />
+    <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.987@0.23.1920.987" timestamp="1578621451694" />
+    <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1578622638261" />
+    <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1578622773498" />
+    <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1578622911341" />
+    <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1578623028940" />
+    <state width="1813" height="339" key="GridCell.Tab.0.right" timestamp="1578772043647">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1578623159680" />
+    <state width="1813" height="150" key="GridCell.Tab.0.right/0.23.1920.979@0.23.1920.979" timestamp="1578620905438" />
+    <state width="1813" height="339" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1578772043647" />
+    <state width="1813" height="397" key="GridCell.Tab.0.right/0.23.1920.983@0.23.1920.983" timestamp="1578769535287" />
+    <state width="1813" height="281" key="GridCell.Tab.0.right/0.23.1920.985@0.23.1920.985" timestamp="1578767590378" />
+    <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.987@0.23.1920.987" timestamp="1578621451695" />
+    <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1578622638262" />
+    <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1578622773499" />
+    <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1578622911349" />
+    <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1578623028941" />
     <state x="183" y="23" key="SettingsEditor" timestamp="1578251103802">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
     <state x="183" y="23" key="SettingsEditor/0.23.1920.979@0.23.1920.979" timestamp="1578240132660" />
     <state x="183" y="23" key="SettingsEditor/0.23.1920.985@0.23.1920.985" timestamp="1578251103802" />
-    <state x="29" y="23" key="new project wizard" timestamp="1578239673305">
-      <screen x="0" y="23" width="1920" height="979" />
+    <state x="465" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578444653838">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state x="465" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.977@0.23.1920.977" timestamp="1578444653838" />
+    <state x="29" y="23" key="new project wizard" timestamp="1578440825246">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="29" y="23" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1578440825246" />
     <state x="29" y="23" key="new project wizard/0.23.1920.979@0.23.1920.979" timestamp="1578239673304" />
   </component>
 </project>

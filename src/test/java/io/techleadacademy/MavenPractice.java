@@ -14,6 +14,7 @@ public class MavenPractice {
         System.out.println(test.getRandomPhoneNum());
         System.out.println(test.getRandomAddress());
 
+        
     }
 
 }

@@ -1,6 +1,7 @@
 package io.techleadacademy;
 
 import com.github.javafaker.Faker;
+import org.testng.annotations.Test;
 
 public class TestData {
     /*
