@@ -1,14 +1,10 @@
-package io.techleadacademy.testNG_Jan11;
+package io.techleadacademy.Jan12;
 
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class Math {
-    @Test(groups = "smoke")
-    public void add() {
-
-    }
+public class DDT {
 
     @DataProvider(name = "dataName")
     public Object[][] testData(){
@@ -18,7 +14,7 @@ public class Math {
         data[1][0] = 200 + 50;
         data[1][1] = 250;
         data[2][0] = -300 + 20;
-        data[2][1] = -280;
+        data[2][1] = 280;
         return data;
     }
 
@@ -29,4 +25,6 @@ public class Math {
         System.out.println("Actual: " + actual + " | Expected: " + expected);
         Assert.assertEquals(actual, expected);
     }
+
+
 }

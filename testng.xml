@@ -1,17 +1,19 @@
 <suite name="Test Suite">
     <test name="Test 1" enabled="true">
         <classes>
-            <class name="io.techleadacademy.testNG_Jan11.TestTags">
+            <class name="io.techleadacademy.testNG_Jan11.TestTags" enable="false">
                 <methods>
                     <exclude name="logInPerformanceTest1"/>
                 </methods>
             </class>
             <class name="io.techleadacademy.testNG_Jan11.Math" enable="false"/>
+            <class name="io.techleadacademy.old.TestingTestNG"></class>
         </classes>
     </test>
     <test name="Smoke Test" enabled="false">
         <packages>
-        <package name="io.techleadacademy.testNG_Jan11"/>
+            <package name="io.techleadacademy.testNG_Jan11"/>
+            <package name="io.techleadacademy.old"></package>
         </packages>
     </test>
 </suite>

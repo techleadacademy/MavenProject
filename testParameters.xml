@@ -3,6 +3,8 @@
     <test name="Test01">
         <parameter name="username" value="AAA" />
         <parameter name="password" value="123456"></parameter>
+        <parameter name="passwordInvalid" value="5555"></parameter>
+
         <groups>
             <run>
                 <include name="regression"/>
@@ -14,4 +16,6 @@
         </classes>
 
     </test>
+
+
 </suite>
