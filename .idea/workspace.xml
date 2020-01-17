@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfb6622a-c925-41ea-bfa0-e0fef10929a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/RegisterPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/tests/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testParameters.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/testRunners/testParameters.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/testRunners/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/io/techleadacademy/testRunners" />
       <recent name="$PROJECT_DIR$/src/test/java/io/techleadacademy/resources/conf" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -186,10 +185,10 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state x="663" y="62" key="#com.intellij.ide.util.MemberChooser/0.23.1920.981@0.23.1920.981" timestamp="1579224245295" />
-    <state x="291" y="419" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578847438601">
+    <state x="291" y="419" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579228742601">
       <screen x="0" y="23" width="1920" height="983" />
     </state>
-    <state x="291" y="419" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1920.983@0.23.1920.983" timestamp="1578847438601" />
+    <state x="291" y="419" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1920.983@0.23.1920.983" timestamp="1579228742601" />
     <state x="640" y="365" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1578840634671">
       <screen x="0" y="23" width="1920" height="983" />
     </state>
