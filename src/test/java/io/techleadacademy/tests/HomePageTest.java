@@ -1,10 +1,10 @@
 package io.techleadacademy.tests;
 
-import io.techleadacademy.base.TestBase;
+import io.techleadacademy.pages.HomePage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class HomePageTest extends TestBase {
+public class HomePageTest extends HomePage {
 
     @Test
     public void verifyHomeTitle(){

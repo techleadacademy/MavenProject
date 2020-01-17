@@ -3,18 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="cfb6622a-c925-41ea-bfa0-e0fef10929a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/Jan12/DDT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/MavenPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/SeleniumWaits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/TestData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/old/OrangeNewsEdit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/old/TestingTestNG.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/testNG_Jan11/Math.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/testNG_Jan11/TestTags.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/io/techleadacademy/MavenPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/io/techleadacademy/TestData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testParameters.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testParameters.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/tests/HomePageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +47,9 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/io/techleadacademy/resources/conf" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="io.techleadacademy" />
     </key>
@@ -65,13 +59,26 @@
       <recent name="$PROJECT_DIR$/src/test/java/io/techleadacademy/zz_TestNGExamples" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.HomePageTest.verifyHomeTitle">
-    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.Temp" />
+  <component name="RunManager" selected="Application.TestBase">
+    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.util.DateUtils" />
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="io.techleadacademy.*" />
+          <option name="PATTERN" value="io.techleadacademy.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.testData.NewUserInfo" />
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.techleadacademy.testData.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,37 +134,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskJan12" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MavenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.techleadacademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="io.techleadacademy" />
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.TaskJan12" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="TestNG.TaskJan12" />
-      <item itemvalue="Application.TestBase" />
-      <item itemvalue="Application.Temp" />
       <item itemvalue="TestNG.HomePageTest" />
       <item itemvalue="TestNG.HomePageTest.verifyHomeTitle" />
+      <item itemvalue="Application.NewUserInfo" />
+      <item itemvalue="Application.DateUtils" />
+      <item itemvalue="Application.TestBase" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestBase" />
+        <item itemvalue="Application.DateUtils" />
+        <item itemvalue="Application.NewUserInfo" />
         <item itemvalue="TestNG.HomePageTest.verifyHomeTitle" />
         <item itemvalue="TestNG.HomePageTest" />
-        <item itemvalue="Application.Temp" />
-        <item itemvalue="Application.TestBase" />
-        <item itemvalue="TestNG.TaskJan12" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +182,10 @@
     </state>
     <state x="416" y="100" width="1177" height="906" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.983@0.23.1920.983" timestamp="1578844472980" />
     <state x="416" y="100" width="1177" height="781" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.985@0.23.1920.985" timestamp="1578843794552" />
+    <state x="663" y="62" key="#com.intellij.ide.util.MemberChooser" timestamp="1579224245295">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="663" y="62" key="#com.intellij.ide.util.MemberChooser/0.23.1920.981@0.23.1920.981" timestamp="1579224245295" />
     <state x="291" y="419" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578847438601">
       <screen x="0" y="23" width="1920" height="983" />
     </state>
@@ -208,52 +202,52 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="114" y="123" width="1675" height="777" key="DiffContextDialog/0.23.1920.977@0.23.1920.977" timestamp="1578442280040" />
-    <state width="1800" height="197" key="GridCell.Tab.0.bottom" timestamp="1579058166589">
+    <state width="1800" height="236" key="GridCell.Tab.0.bottom" timestamp="1579227969448">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1800" height="173" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579054455645" />
     <state width="1800" height="173" key="GridCell.Tab.0.bottom/0.23.1920.979@0.23.1920.979" timestamp="1579053874778" />
-    <state width="1800" height="197" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1579058166589" />
-    <state width="1800" height="173" key="GridCell.Tab.0.bottom/0.23.1920.983@0.23.1920.983" timestamp="1579054251156" />
+    <state width="1800" height="236" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1579227969448" />
+    <state width="1800" height="236" key="GridCell.Tab.0.bottom/0.23.1920.983@0.23.1920.983" timestamp="1579225330159" />
     <state width="1813" height="214" key="GridCell.Tab.0.bottom/0.23.1920.985@0.23.1920.985" timestamp="1578856776140" />
     <state width="1813" height="173" key="GridCell.Tab.0.bottom/0.23.1920.987@0.23.1920.987" timestamp="1578857154880" />
     <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1578622638263" />
     <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1578622773499" />
     <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1578622911350" />
     <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1578623028942" />
-    <state width="1800" height="197" key="GridCell.Tab.0.center" timestamp="1579058166588">
+    <state width="1800" height="236" key="GridCell.Tab.0.center" timestamp="1579227969447">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1800" height="173" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579054455623" />
     <state width="1800" height="173" key="GridCell.Tab.0.center/0.23.1920.979@0.23.1920.979" timestamp="1579053874776" />
-    <state width="1800" height="197" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1579058166588" />
-    <state width="1800" height="173" key="GridCell.Tab.0.center/0.23.1920.983@0.23.1920.983" timestamp="1579054251154" />
+    <state width="1800" height="236" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1579227969447" />
+    <state width="1800" height="236" key="GridCell.Tab.0.center/0.23.1920.983@0.23.1920.983" timestamp="1579225330156" />
     <state width="1813" height="214" key="GridCell.Tab.0.center/0.23.1920.985@0.23.1920.985" timestamp="1578856776138" />
     <state width="1813" height="173" key="GridCell.Tab.0.center/0.23.1920.987@0.23.1920.987" timestamp="1578857154878" />
     <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1578622638261" />
     <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1578622773498" />
     <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1578622911344" />
     <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1578623028941" />
-    <state width="1800" height="197" key="GridCell.Tab.0.left" timestamp="1579058166587">
+    <state width="1800" height="236" key="GridCell.Tab.0.left" timestamp="1579227969446">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1800" height="173" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579054455610" />
     <state width="1800" height="173" key="GridCell.Tab.0.left/0.23.1920.979@0.23.1920.979" timestamp="1579053874776" />
-    <state width="1800" height="197" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1579058166587" />
-    <state width="1800" height="173" key="GridCell.Tab.0.left/0.23.1920.983@0.23.1920.983" timestamp="1579054251153" />
+    <state width="1800" height="236" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1579227969446" />
+    <state width="1800" height="236" key="GridCell.Tab.0.left/0.23.1920.983@0.23.1920.983" timestamp="1579225330156" />
     <state width="1813" height="214" key="GridCell.Tab.0.left/0.23.1920.985@0.23.1920.985" timestamp="1578856776137" />
     <state width="1813" height="173" key="GridCell.Tab.0.left/0.23.1920.987@0.23.1920.987" timestamp="1578857154877" />
     <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1578622638261" />
     <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1578622773498" />
     <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1578622911341" />
     <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1578623028940" />
-    <state width="1800" height="197" key="GridCell.Tab.0.right" timestamp="1579058166589">
+    <state width="1800" height="236" key="GridCell.Tab.0.right" timestamp="1579227969447">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1800" height="173" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579054455637" />
     <state width="1800" height="173" key="GridCell.Tab.0.right/0.23.1920.979@0.23.1920.979" timestamp="1579053874777" />
-    <state width="1800" height="197" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1579058166589" />
-    <state width="1800" height="173" key="GridCell.Tab.0.right/0.23.1920.983@0.23.1920.983" timestamp="1579054251155" />
+    <state width="1800" height="236" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1579227969447" />
+    <state width="1800" height="236" key="GridCell.Tab.0.right/0.23.1920.983@0.23.1920.983" timestamp="1579225330157" />
     <state width="1813" height="214" key="GridCell.Tab.0.right/0.23.1920.985@0.23.1920.985" timestamp="1578856776138" />
     <state width="1813" height="173" key="GridCell.Tab.0.right/0.23.1920.987@0.23.1920.987" timestamp="1578857154879" />
     <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1578622638262" />
