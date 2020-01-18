@@ -32,11 +32,11 @@ public class HomePage extends BasePage {
     }
 
     public void clickMyAccountBtn(){
-        myAccount_Btn.click();
+        SeleniumUtils.click(myAccount_Btn);
     }
 
     public void clickSignUp(){
         clickMyAccountBtn();
-        signUp_Btn.click();
+        SeleniumUtils.click(signUp_Btn);
     }
 }

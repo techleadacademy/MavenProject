@@ -4,6 +4,7 @@ import io.techleadacademy.base.TestBase;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -33,6 +34,12 @@ public class SeleniumUtils extends TestBase {
         explicitWait.until(ExpectedConditions.visibilityOf(element));
     }
 
+    public static void waitForPageToLoad(){
+        ExpectedCondition<Boolean> pageLoadCondition = driver -> ((JavascriptExecutor)driver).executeScript("return document.readyState").equals(("complete"));
+        WebDriverWait wait = new WebDriverWait(driver, 20);
+        wait.until(pageLoadCondition);
+    }
+
     public static void click(WebElement element){
         highlightElement(element);
         waitForClickability(element);
@@ -46,6 +53,7 @@ public class SeleniumUtils extends TestBase {
     }
 
     public static String getText(WebElement element){
+        highlightElement(element);
         waitForVisibilityOfElement(element);
         return element.getText();
     }
@@ -56,6 +64,7 @@ public class SeleniumUtils extends TestBase {
         }catch (Exception e){
             e.printStackTrace();
         }
+        highlightElement(element);
     }
 
     public static void highlightElement(WebElement element){
@@ -74,6 +83,8 @@ public class SeleniumUtils extends TestBase {
             }
         }
     }
+
+
 
 
 

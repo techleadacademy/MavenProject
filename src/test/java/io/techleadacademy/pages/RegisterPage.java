@@ -47,15 +47,15 @@ public class RegisterPage extends BasePage {
     public void registerNewUser() throws InterruptedException {
         HomePage homePage = new HomePage();
         homePage.clickSignUp();
-        Thread.sleep(2000);
-        SeleniumUtils.sendKeys(firstName, user.getFirstName());
-        SeleniumUtils.sendKeys(lastName, user.getLastName());
-        SeleniumUtils.sendKeys(phone, user.getCellPhoneNum());
-        SeleniumUtils.sendKeys(email, user.getEmail());
-        SeleniumUtils.sendKeys(password, user.getPassword());
-        SeleniumUtils.sendKeys(confirmPassword, user.getPassword());
-
-        clickSignUp();
+//        Thread.sleep(2000);
+//        SeleniumUtils.sendKeys(firstName, user.getFirstName());
+//        SeleniumUtils.sendKeys(lastName, user.getLastName());
+//        SeleniumUtils.sendKeys(phone, user.getCellPhoneNum());
+//        SeleniumUtils.sendKeys(email, user.getEmail());
+//        SeleniumUtils.sendKeys(password, user.getPassword());
+//        SeleniumUtils.sendKeys(confirmPassword, user.getPassword());
+//
+//        clickSignUp();
     }
 
     public void clickSignUp(){
