@@ -15,6 +15,10 @@ public class TestBase {
     public static WebDriver driver = null;
     public static final String propertyPath = "src/test/java/io/techleadacademy/resources/conf/configuration.properties";
 
+    public TestBase(){
+        getDriver();
+    }
+
     @BeforeMethod
     public void setUp(){
         initialize(ConfigReader.readProperty(propertyPath,"browser"));
@@ -24,6 +28,7 @@ public class TestBase {
     public void tearDown(){
         closeDriver();
     }
+
 
     public static void initialize(String browser){
         if (driver != null )
@@ -44,7 +49,7 @@ public class TestBase {
             default:
                 System.out.println("Invalid browser type");
         }
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.manage().window().maximize();
         driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
         driver.get(ConfigReader.readProperty(propertyPath, "url"));
@@ -61,6 +66,13 @@ public class TestBase {
         if (driver!=null)
             driver.quit();
         driver = null;
+    }
+
+    public WebDriver getDriver(){
+        if (driver != null)
+            return driver;
+        initialize(ConfigReader.readProperty(propertyPath,"browser"));
+        return driver;
     }
 
 

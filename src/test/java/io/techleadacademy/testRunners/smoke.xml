@@ -1,0 +1,20 @@
+<suite name="smoke" time-out="10000">
+
+    <test name="Test01">
+        <parameter name="username" value="AAA" />
+        <parameter name="password" value="123456"></parameter>
+        <parameter name="passwordInvalid" value="5555"></parameter>
+
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="io.techleadacademy.zz_TestNGExamples.testNG_Jan11.TestTags"></class>
+        </classes>
+
+    </test>
+
+
+</suite>

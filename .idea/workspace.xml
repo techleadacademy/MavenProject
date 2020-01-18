@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfb6622a-c925-41ea-bfa0-e0fef10929a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/testParameters.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/testRunners/testParameters.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/testRunners/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/MyAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/io/techleadacademy/tests/RegisterPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/techleadacademy/tests/RegisterPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,47 +62,8 @@
       <recent name="$PROJECT_DIR$/src/test/java/io/techleadacademy/zz_TestNGExamples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestBase">
-    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.util.DateUtils" />
-      <module name="MavenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.techleadacademy.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.testData.NewUserInfo" />
-      <module name="MavenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.techleadacademy.testData.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.base.TestBase" />
-      <module name="MavenProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.techleadacademy.base.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomePageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.MyAccountPageTest.verifyMyAccount">
+    <configuration name="MyAccountPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
@@ -107,7 +72,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="io.techleadacademy.tests" />
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.tests.HomePageTest" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.tests.MyAccountPageTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -115,7 +80,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePageTest.verifyHomeTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MyAccountPageTest.verifyMyAccount" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MavenProject" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +89,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="io.techleadacademy.tests" />
-      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.tests.HomePageTest" />
-      <option name="METHOD_NAME" value="verifyHomeTitle" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.tests.MyAccountPageTest" />
+      <option name="METHOD_NAME" value="verifyMyAccount" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,20 +98,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegisterPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.techleadacademy.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.techleadacademy.tests" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.tests.RegisterPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterPageTest.verifyRegisterPageTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.techleadacademy.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.techleadacademy.tests" />
+      <option name="MAIN_CLASS_NAME" value="io.techleadacademy.tests.RegisterPageTest" />
+      <option name="METHOD_NAME" value="verifyRegisterPageTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/techleadacademy/IdeaProjects/MavenProject/src/test/java/io/techleadacademy/testRunners/suiteRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MavenProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/io/techleadacademy/testRunners/suiteRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.HomePageTest" />
-      <item itemvalue="TestNG.HomePageTest.verifyHomeTitle" />
-      <item itemvalue="Application.NewUserInfo" />
-      <item itemvalue="Application.DateUtils" />
-      <item itemvalue="Application.TestBase" />
+      <item itemvalue="TestNG.RegisterPageTest.verifyRegisterPageTitle" />
+      <item itemvalue="TestNG.RegisterPageTest" />
+      <item itemvalue="TestNG.MyAccountPageTest" />
+      <item itemvalue="TestNG./Users/techleadacademy/IdeaProjects/MavenProject/src/test/java/io/techleadacademy/testRunners/suiteRunner.xml" />
+      <item itemvalue="TestNG.MyAccountPageTest.verifyMyAccount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestBase" />
-        <item itemvalue="Application.DateUtils" />
-        <item itemvalue="Application.NewUserInfo" />
-        <item itemvalue="TestNG.HomePageTest.verifyHomeTitle" />
-        <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.MyAccountPageTest.verifyMyAccount" />
+        <item itemvalue="TestNG./Users/techleadacademy/IdeaProjects/MavenProject/src/test/java/io/techleadacademy/testRunners/suiteRunner.xml" />
+        <item itemvalue="TestNG.MyAccountPageTest" />
+        <item itemvalue="TestNG.RegisterPageTest" />
+        <item itemvalue="TestNG.RegisterPageTest.verifyRegisterPageTitle" />
       </list>
     </recent_temporary>
   </component>
@@ -201,77 +211,81 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="114" y="123" width="1675" height="777" key="DiffContextDialog/0.23.1920.977@0.23.1920.977" timestamp="1578442280040" />
-    <state width="1800" height="236" key="GridCell.Tab.0.bottom" timestamp="1579227969448">
+    <state width="1800" height="189" key="GridCell.Tab.0.bottom" timestamp="1579373773287">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1800" height="173" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579054455645" />
-    <state width="1800" height="173" key="GridCell.Tab.0.bottom/0.23.1920.979@0.23.1920.979" timestamp="1579053874778" />
-    <state width="1800" height="236" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1579227969448" />
-    <state width="1800" height="236" key="GridCell.Tab.0.bottom/0.23.1920.983@0.23.1920.983" timestamp="1579225330159" />
+    <state width="1800" height="94" key="GridCell.Tab.0.bottom/0.23.1920.979@0.23.1920.979" timestamp="1579364000264" />
+    <state width="1800" height="189" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1579373773287" />
+    <state width="1800" height="283" key="GridCell.Tab.0.bottom/0.23.1920.983@0.23.1920.983" timestamp="1579371523027" />
     <state width="1813" height="214" key="GridCell.Tab.0.bottom/0.23.1920.985@0.23.1920.985" timestamp="1578856776140" />
     <state width="1813" height="173" key="GridCell.Tab.0.bottom/0.23.1920.987@0.23.1920.987" timestamp="1578857154880" />
     <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1578622638263" />
     <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.990@0.23.1920.990" timestamp="1578622773499" />
     <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1578622911350" />
     <state width="1813" height="230" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1578623028942" />
-    <state width="1800" height="236" key="GridCell.Tab.0.center" timestamp="1579227969447">
+    <state width="1800" height="189" key="GridCell.Tab.0.center" timestamp="1579373773286">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1800" height="173" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579054455623" />
-    <state width="1800" height="173" key="GridCell.Tab.0.center/0.23.1920.979@0.23.1920.979" timestamp="1579053874776" />
-    <state width="1800" height="236" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1579227969447" />
-    <state width="1800" height="236" key="GridCell.Tab.0.center/0.23.1920.983@0.23.1920.983" timestamp="1579225330156" />
+    <state width="1800" height="94" key="GridCell.Tab.0.center/0.23.1920.979@0.23.1920.979" timestamp="1579364000262" />
+    <state width="1800" height="189" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1579373773286" />
+    <state width="1800" height="283" key="GridCell.Tab.0.center/0.23.1920.983@0.23.1920.983" timestamp="1579371523022" />
     <state width="1813" height="214" key="GridCell.Tab.0.center/0.23.1920.985@0.23.1920.985" timestamp="1578856776138" />
     <state width="1813" height="173" key="GridCell.Tab.0.center/0.23.1920.987@0.23.1920.987" timestamp="1578857154878" />
     <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1578622638261" />
     <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.990@0.23.1920.990" timestamp="1578622773498" />
     <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1578622911344" />
     <state width="1813" height="230" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1578623028941" />
-    <state width="1800" height="236" key="GridCell.Tab.0.left" timestamp="1579227969446">
+    <state width="1800" height="189" key="GridCell.Tab.0.left" timestamp="1579373773285">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1800" height="173" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579054455610" />
-    <state width="1800" height="173" key="GridCell.Tab.0.left/0.23.1920.979@0.23.1920.979" timestamp="1579053874776" />
-    <state width="1800" height="236" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1579227969446" />
-    <state width="1800" height="236" key="GridCell.Tab.0.left/0.23.1920.983@0.23.1920.983" timestamp="1579225330156" />
+    <state width="1800" height="94" key="GridCell.Tab.0.left/0.23.1920.979@0.23.1920.979" timestamp="1579364000261" />
+    <state width="1800" height="189" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1579373773285" />
+    <state width="1800" height="283" key="GridCell.Tab.0.left/0.23.1920.983@0.23.1920.983" timestamp="1579371523022" />
     <state width="1813" height="214" key="GridCell.Tab.0.left/0.23.1920.985@0.23.1920.985" timestamp="1578856776137" />
     <state width="1813" height="173" key="GridCell.Tab.0.left/0.23.1920.987@0.23.1920.987" timestamp="1578857154877" />
     <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1578622638261" />
     <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.990@0.23.1920.990" timestamp="1578622773498" />
     <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1578622911341" />
     <state width="1813" height="230" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1578623028940" />
-    <state width="1800" height="236" key="GridCell.Tab.0.right" timestamp="1579227969447">
+    <state width="1800" height="189" key="GridCell.Tab.0.right" timestamp="1579373773286">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1800" height="173" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579054455637" />
-    <state width="1800" height="173" key="GridCell.Tab.0.right/0.23.1920.979@0.23.1920.979" timestamp="1579053874777" />
-    <state width="1800" height="236" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1579227969447" />
-    <state width="1800" height="236" key="GridCell.Tab.0.right/0.23.1920.983@0.23.1920.983" timestamp="1579225330157" />
+    <state width="1800" height="94" key="GridCell.Tab.0.right/0.23.1920.979@0.23.1920.979" timestamp="1579364000263" />
+    <state width="1800" height="189" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1579373773286" />
+    <state width="1800" height="283" key="GridCell.Tab.0.right/0.23.1920.983@0.23.1920.983" timestamp="1579371523026" />
     <state width="1813" height="214" key="GridCell.Tab.0.right/0.23.1920.985@0.23.1920.985" timestamp="1578856776138" />
     <state width="1813" height="173" key="GridCell.Tab.0.right/0.23.1920.987@0.23.1920.987" timestamp="1578857154879" />
     <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1578622638262" />
     <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.990@0.23.1920.990" timestamp="1578622773499" />
     <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1578622911349" />
     <state width="1813" height="230" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1578623028941" />
-    <state width="1813" height="297" key="GridCell.Tab.1.bottom" timestamp="1578855957399">
-      <screen x="0" y="23" width="1920" height="979" />
+    <state width="1800" height="297" key="GridCell.Tab.1.bottom" timestamp="1579362060187">
+      <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1813" height="297" key="GridCell.Tab.1.bottom/0.23.1920.979@0.23.1920.979" timestamp="1578855957399" />
+    <state width="1800" height="297" key="GridCell.Tab.1.bottom/0.23.1920.981@0.23.1920.981" timestamp="1579362060187" />
     <state width="1813" height="297" key="GridCell.Tab.1.bottom/0.23.1920.983@0.23.1920.983" timestamp="1578846889663" />
-    <state width="1813" height="297" key="GridCell.Tab.1.center" timestamp="1578855957397">
-      <screen x="0" y="23" width="1920" height="979" />
+    <state width="1800" height="297" key="GridCell.Tab.1.center" timestamp="1579362060182">
+      <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1813" height="297" key="GridCell.Tab.1.center/0.23.1920.979@0.23.1920.979" timestamp="1578855957397" />
+    <state width="1800" height="297" key="GridCell.Tab.1.center/0.23.1920.981@0.23.1920.981" timestamp="1579362060182" />
     <state width="1813" height="297" key="GridCell.Tab.1.center/0.23.1920.983@0.23.1920.983" timestamp="1578846889657" />
-    <state width="1813" height="297" key="GridCell.Tab.1.left" timestamp="1578855957396">
-      <screen x="0" y="23" width="1920" height="979" />
+    <state width="1800" height="297" key="GridCell.Tab.1.left" timestamp="1579362060181">
+      <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1813" height="297" key="GridCell.Tab.1.left/0.23.1920.979@0.23.1920.979" timestamp="1578855957396" />
+    <state width="1800" height="297" key="GridCell.Tab.1.left/0.23.1920.981@0.23.1920.981" timestamp="1579362060181" />
     <state width="1813" height="297" key="GridCell.Tab.1.left/0.23.1920.983@0.23.1920.983" timestamp="1578846889652" />
-    <state width="1813" height="297" key="GridCell.Tab.1.right" timestamp="1578855957398">
-      <screen x="0" y="23" width="1920" height="979" />
+    <state width="1800" height="297" key="GridCell.Tab.1.right" timestamp="1579362060185">
+      <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1813" height="297" key="GridCell.Tab.1.right/0.23.1920.979@0.23.1920.979" timestamp="1578855957398" />
+    <state width="1800" height="297" key="GridCell.Tab.1.right/0.23.1920.981@0.23.1920.981" timestamp="1579362060185" />
     <state width="1813" height="297" key="GridCell.Tab.1.right/0.23.1920.983@0.23.1920.983" timestamp="1578846889657" />
     <state x="183" y="23" key="SettingsEditor" timestamp="1578251103802">
       <screen x="0" y="23" width="1920" height="985" />
@@ -287,5 +301,9 @@
     </state>
     <state x="29" y="23" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1578440825246" />
     <state x="29" y="23" key="new project wizard/0.23.1920.979@0.23.1920.979" timestamp="1578239673304" />
+    <state x="435" y="23" width="1005" height="1466" key="search.everywhere.popup" timestamp="1579363072929">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="435" y="23" width="1005" height="1466" key="search.everywhere.popup/0.23.1920.981@0.23.1920.981" timestamp="1579363072929" />
   </component>
 </project>
